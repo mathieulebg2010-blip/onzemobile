@@ -1,4 +1,5 @@
 [app]
+source.dir = .
 title = OnzeMobile
 package.name = onzemobile
 package.domain = org.onzemusique
