@@ -9,9 +9,9 @@ requirements = python3,kivy,pygame
 orientation = portrait
 fullscreen = 0
 android.permissions = READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE
-android.api = 31
+android.api = 33
 android.min_api = 21
-android.sdk = 20
+android.sdk = 33
 android.ndk = 25b
 android.archs = arm64-v8a
 
